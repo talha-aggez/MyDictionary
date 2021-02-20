@@ -1,0 +1,13 @@
+D:\Engin Demirog\KampIntro\MyDictionaryExample\bin\Debug\netcoreapp3.1\MyDictionaryExample.exe
+D:\Engin Demirog\KampIntro\MyDictionaryExample\bin\Debug\netcoreapp3.1\MyDictionaryExample.deps.json
+D:\Engin Demirog\KampIntro\MyDictionaryExample\bin\Debug\netcoreapp3.1\MyDictionaryExample.runtimeconfig.json
+D:\Engin Demirog\KampIntro\MyDictionaryExample\bin\Debug\netcoreapp3.1\MyDictionaryExample.runtimeconfig.dev.json
+D:\Engin Demirog\KampIntro\MyDictionaryExample\bin\Debug\netcoreapp3.1\MyDictionaryExample.dll
+D:\Engin Demirog\KampIntro\MyDictionaryExample\bin\Debug\netcoreapp3.1\MyDictionaryExample.pdb
+D:\Engin Demirog\KampIntro\MyDictionaryExample\obj\Debug\netcoreapp3.1\MyDictionaryExample.csprojAssemblyReference.cache
+D:\Engin Demirog\KampIntro\MyDictionaryExample\obj\Debug\netcoreapp3.1\MyDictionaryExample.AssemblyInfoInputs.cache
+D:\Engin Demirog\KampIntro\MyDictionaryExample\obj\Debug\netcoreapp3.1\MyDictionaryExample.AssemblyInfo.cs
+D:\Engin Demirog\KampIntro\MyDictionaryExample\obj\Debug\netcoreapp3.1\MyDictionaryExample.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\KampIntro\MyDictionaryExample\obj\Debug\netcoreapp3.1\MyDictionaryExample.dll
+D:\Engin Demirog\KampIntro\MyDictionaryExample\obj\Debug\netcoreapp3.1\MyDictionaryExample.pdb
+D:\Engin Demirog\KampIntro\MyDictionaryExample\obj\Debug\netcoreapp3.1\MyDictionaryExample.genruntimeconfig.cache
